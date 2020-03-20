@@ -32,5 +32,9 @@ Para o React:
 
   > $ yarn start
   
+  ![1](https://user-images.githubusercontent.com/12499627/77192582-8883f780-6abb-11ea-9f7e-735b4dfe9c42.PNG)
+
+  ![2](https://user-images.githubusercontent.com/12499627/77192600-8e79d880-6abb-11ea-9f85-6c27a77a7915.PNG)
+
   
   ![ReservasDeViagens](https://user-images.githubusercontent.com/12499627/77182334-58345d00-6aab-11ea-9a97-79ac8a49f532.gif)
