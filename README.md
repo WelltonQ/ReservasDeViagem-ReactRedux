@@ -4,12 +4,12 @@ Exemplo utilizando ReactJS e Redux
 <hr/>
 
 ### Funcionalidade:
-- Foi utilizado uma API fake para ser consumida (já que o objetivo desse projeto é trabalhar com ReactJS e Redux);
+- Foi utilizada uma API fake para ser consumida (já que o objetivo desse projeto é trabalhar com ReactJS e Redux);
 - Permite a solicitação de reserva para viagem selecionando o pacote que deseja; 
 - Adiciona reservas;
 - Adiciona quantidade de reservas;
 - Remove reservas;
-- Consulta quantidades de reservas dosponíveis;
+- Consulta quantidades de reservas disponíveis;
 - Trabalha com rotas através do Redux.
 
 <hr/>
