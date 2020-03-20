@@ -4,7 +4,7 @@ Exemplo utilizando ReactJS e Redux
 <hr/>
 
 ### Funcionalidade:
-- Foi utilizado uma API fake para ser condumida (já que o objetivo desse projeto é trabalhar com ReactJS e Redux);
+- Foi utilizado uma API fake para ser consumida (já que o objetivo desse projeto é trabalhar com ReactJS e Redux);
 - Permite a solicitação de reserva para viagem selecionando o pacote que deseja; 
 - Adiciona reservas;
 - Adiciona quantidade de reservas;
